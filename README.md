@@ -7,7 +7,7 @@ Tmux plugin to monitor network stats. Inspired by https://github.com/tmux-plugin
 
 Add this to `.tmux.conf`:
 ```
-set -g @plugin 'minhdanh/tmux-network-speed'
+set -g @plugin 'desi-belokonska/tmux-network-speed'
 ```
 
 Also add `#{network_speed}` to your left/right status bar.
